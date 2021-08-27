@@ -107,7 +107,7 @@ void nswitch() {
 
 int main() {
 
-	cout << "\n\n    This is a test program intended to identify\nNintendo 3DS and 2DS systems by their model number.\n\n           ----- Written by Nikki -----\n\n";
+	cout << "\n\n    This is a test program intended to identify\nNintendo 3DS, Switch and Wii U systems by their model number.\n\n           ----- Written by Nikki -----\n\n";
 
 	while (true) {
 		string type;
